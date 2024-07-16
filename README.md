@@ -4,8 +4,7 @@
   </a>
 </h1>
 
-<h1 align="center">Hi there</h1>
-<h3 align="center">A passionate Cybersecurity Student from Nepal.</h3>
+<h1 align="center">A passionate Cybersecurity Student from Nepal.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makkkiiii&label=Profile%20views&color=0e75b6&style=flat" alt="makkkiiii" /> </p>
 
@@ -16,7 +15,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
-- 👨‍💻 All of my projects are available at [https://makkkiii.vercel.app/](https://makkkiii.vercel.app/)
+- 👨‍💻 Portfolio Website -> [https://makkkiii.vercel.app/](https://makkkiii.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@makkkiii](https://medium.com/@makkkiii)
 
