@@ -4,9 +4,22 @@
   </a>
 </h1>
 
-👩🏻‍💻 Cyber Security Student <br/>
-👩🏻‍🎓 Studying Ethical Hacking and Cybersecurity at Softwarica College of IT and E-Commerce<br/>
-💭 Currently learning and doing Photography <br/>
+<h1 align="center">Hi there</h1>
+<h3 align="center">A passionate Cybersecurity Student from Nepal.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=makkkiiii&label=Profile%20views&color=0e75b6&style=flat" alt="makkkiiii" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makkkiiii" alt="makkkiiii" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently studying Cybersecurity at **Softwarica College**
+
+- 🌱 I’m currently learning **Ethical Hacking**
+
+- 👨‍💻 All of my projects are available at [https://makkkiii.vercel.app/](https://makkkiii.vercel.app/)
+
+- 📝 I regularly write articles on [https://medium.com/@makkkiii](https://medium.com/@makkkiii)
 
 
 ###
