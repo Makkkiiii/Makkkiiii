@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Denish!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am;Denish)](https://git.io/typing-svg)
 👩🏻‍💻 Cyber Security Student <br/>
 👩🏻‍🎓 Studying Ethical Hacking and Cybersecurity at Softwarica College of IT and E-Commerce<br/>
 💭 Currently learning and doing Photography <br/>
