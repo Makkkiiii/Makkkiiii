@@ -18,7 +18,7 @@
 # 💻 Tech Stack
 
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,py,kali,linux,notion,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,py,kali,linux,notion&theme=light)](https://skillicons.dev)
 
 
 
