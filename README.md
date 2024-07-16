@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
-- 👨‍💻 Portfolio Website -> [https://makkkiii.vercel.app/](https://makkkiii.vercel.app/)
+- 👨‍💻 Portfolio Website [https://makkkiii.vercel.app/](https://makkkiii.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@makkkiii](https://medium.com/@makkkiii)
 
