@@ -1,5 +1,4 @@
-
-# 👋 Hi, I'm Denish!
+<h1 align="center">Hi 👋, I'm Denish!</h1>
 👩🏻‍💻 Cyber Security Student <br/>
 👩🏻‍🎓 Studying Ethical Hacking and Cybersecurity at Softwarica College of IT and E-Commerce<br/>
 💭 Currently learning and doing Photography <br/>
