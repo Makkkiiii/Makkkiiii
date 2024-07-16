@@ -1,4 +1,7 @@
+<div aligh = " center ">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am;Denish)](https://git.io/typing-svg)
+
+</div>
 👩🏻‍💻 Cyber Security Student <br/>
 👩🏻‍🎓 Studying Ethical Hacking and Cybersecurity at Softwarica College of IT and E-Commerce<br/>
 💭 Currently learning and doing Photography <br/>
