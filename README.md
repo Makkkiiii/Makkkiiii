@@ -1,5 +1,8 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am;Denish)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Denish!&center=true&size=30">
+  </a>
+</h1>
 
 👩🏻‍💻 Cyber Security Student <br/>
 👩🏻‍🎓 Studying Ethical Hacking and Cybersecurity at Softwarica College of IT and E-Commerce<br/>
