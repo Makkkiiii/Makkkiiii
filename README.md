@@ -1,6 +1,7 @@
 <h3 align="left">Hi 👋! My name is Denish and I am currently doing my bachelors in Cybersecurity</h3>
 
 ###
+# Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
@@ -17,7 +18,7 @@
 </div>
 
 ###
-
+# Find me on
 <div align="left">
   <a href="https://www.youtube.com/@makkkiiiii" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
