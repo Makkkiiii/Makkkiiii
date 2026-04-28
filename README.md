@@ -29,7 +29,7 @@
 # 💻 Tech Stack
 
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,py,linux,html,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,rust,bash,py,linux,html,js)](https://skillicons.dev)
 
 <picture>
   <source
