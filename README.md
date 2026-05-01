@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently studying Cybersecurity at **Softwarica College**
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently researching about **Automotive Security**
 
-- 👨‍💻 Portfolio Website [https://makkkiii.vercel.app/](https://makkkiii.vercel.app/)
+- 👨‍💻 Portfolio Website https://www.denishmaharjan.name.np/ 
 
 - 📝 I regularly write articles on [https://medium.com/@makkkiii](https://medium.com/@makkkiii)
 
