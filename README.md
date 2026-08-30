@@ -46,10 +46,6 @@
   />
 </picture>
 
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makkkiiii&show_icons=true&locale=en&layout=compact" alt="makkkiiii" /></p>
-
 # 💻 Socials
   <div align="left">
   <a href="https://www.youtube.com/@makkkiiiii" target="_blank">
